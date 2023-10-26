@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrudOperationWebAPI", "CrudOperationWebAPI\CrudOperationWebAPI.csproj", "{3487909C-F120-4DEB-B684-B47466C3D2EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumingWebAPI", "ConsumingWebAPI\ConsumingWebAPI.csproj", "{74DD6B04-CEBA-4F09-89D4-1ABDE92C2DDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3487909C-F120-4DEB-B684-B47466C3D2EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3487909C-F120-4DEB-B684-B47466C3D2EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3487909C-F120-4DEB-B684-B47466C3D2EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3487909C-F120-4DEB-B684-B47466C3D2EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74DD6B04-CEBA-4F09-89D4-1ABDE92C2DDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74DD6B04-CEBA-4F09-89D4-1ABDE92C2DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74DD6B04-CEBA-4F09-89D4-1ABDE92C2DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74DD6B04-CEBA-4F09-89D4-1ABDE92C2DDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E91A7EBA-FC18-4437-8E55-A89FE7A912B0}
+	EndGlobalSection
+EndGlobal
